@@ -73,6 +73,14 @@ The tool:
 4. Launch the game — it will regenerate its sync manifest automatically
 5. If prompted about cloud vs local saves, choose the one you just wrote
 
+## Tested on
+
+- Savegame transfer from Windows Steam to M1 Pro MacBook, so after iCloud sync I can play on my M4 iPad Pro on vacation.
+
+## Known issues
+
+- **Game does not recognize save games** — quit the game completely and start it again.
+
 ---
 
 *Keep on keeping on!*
