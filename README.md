@@ -2,7 +2,7 @@
 > **USE AT YOUR OWN RISK.**
 > This tool is provided as-is, without any warranty or guarantee of any kind. The owner of this repository is not responsible for any data loss, save corruption, or other damage resulting from the use of this tool. Always back up your save files before converting.
 
-# Death Stranding DC Savegame Porter
+# Death Stranding Director's Cut Savegame Porter
 
 Convert Death Stranding Director's Cut savegames between **Steam** and **Mac App Store (iCloud)** formats.
 
