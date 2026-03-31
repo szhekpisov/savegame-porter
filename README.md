@@ -59,7 +59,7 @@ The save data is identical between both versions. The only difference is the dir
 
 The tool:
 
-1. Backs up the destination directory before overwriting
+1. Backs up the destination directory before overwriting (to `<destination>.backup.<timestamp>/` in the same parent folder)
 2. Copies save data between formats
 3. Generates/strips `.bundle` metadata as needed
 4. Removes macOS quarantine flags (for iCloud compatibility)
